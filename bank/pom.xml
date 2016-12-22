@@ -25,7 +25,7 @@
   
   <distributionManagement>
     <snapshotRepository>
-        <id>central</id>
+        <id>snapshots</id>
         <name>DESKTOP-74I6IP2-snapshots</name>
         <url>http://localhost:7070/artifactory/ext-snapshot-local</url>
     </snapshotRepository>
